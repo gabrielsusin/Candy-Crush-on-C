@@ -1,0 +1,8 @@
+Para jogar digite duas coordenadas, linha e coluna, respectivamente, colocando-as entre virgulas, logo em seguida digite a direcao para onde deseja mover sua peça. Ex: 2,3,d
+
+D ou d: Direita
+E ou e: Esquerda
+C ou c: Cima
+B ou b: Baixo
+
+Objetivo do jogo é juntar a maior pontuacao em no maximo 15 jogadas!
